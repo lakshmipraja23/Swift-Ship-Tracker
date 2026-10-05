@@ -48,7 +48,7 @@ The complete project documentation is available in the Documentation folder.
 
 #Demo Video
 
-https://drive.google.com/file/d/1pBP5-W-JJ55ARX-TJH-Xxl8ggOHjfA_a/view?usp=drivesdk
+https://drive.google.com/file/d/1gVUMjtpdt_4gJLEqyu0NIDrtgWpsWDkk/view?usp=drivesdk
 
 #Team Members
 
